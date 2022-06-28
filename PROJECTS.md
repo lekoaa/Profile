@@ -1,1 +1,2 @@
 # List of projects
+PySideCalculator
