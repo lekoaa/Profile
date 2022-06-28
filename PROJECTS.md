@@ -1,2 +1,2 @@
 # List of projects
-PySideCalculator
+PySideCalculator https://github.com/lekoaa/PySide6Calculator.git
